@@ -1,0 +1,6 @@
+Basically agar mai circle ke centre(let c)se rectangle ka nearest point pta kar lu (let p) 
+uske baad 
+agar mai c and p ka distance calculate kar lu and vo
+radius of circle se kaam/equal to ho
+then 
+IT OVERLAPS...
